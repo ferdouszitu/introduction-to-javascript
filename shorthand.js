@@ -1,0 +1,13 @@
+var price1 = 50;
+price1 = 60;
+var price2 = 70;
+var price3 = 40;
+// price2 = price2 + 10;
+price2 += 20;
+console.log(price2);
+price3 -= 15;
+console.log(price3);
+price3 *= 4;
+console.log(price3);
+price3 /= 25;
+console.log(price3);

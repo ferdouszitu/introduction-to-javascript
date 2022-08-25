@@ -1,0 +1,10 @@
+var price1 = '35';
+var price2 = '65';
+var totalPrice = price1 + price2;
+// console.log(totalPrice);
+var price1Number = parseInt(price1);
+// console.log(price1Number);
+var gpa = '4.81';
+// gpa = parseFloat(gpa);
+var gpaNumber = parseFloat(gpa);
+console.log(gpaNumber);

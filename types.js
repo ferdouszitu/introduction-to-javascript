@@ -1,0 +1,14 @@
+var price1 = 85;
+console.log(typeof price1);
+var price2 = '85';
+console.log(typeof price2);
+var isHappy = true;
+console.log(typeof isHappy);
+var romantic;
+console.log(typeof romantic);
+var num1 = .1;
+var num2 = .2;
+var sum = num1 + num2;
+sum = sum.toFixed(4);
+sum = parseFloat(sum);
+console.log(sum);
